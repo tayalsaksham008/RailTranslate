@@ -1,4 +1,4 @@
-# Multilingual Information Dissemination System for Railway Stations
+# RailTranslate: Multilingual Information Dissemination System for Railway Stations
 
 ## Overview
 
@@ -27,11 +27,11 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/tayalsaksham008/Railway.git
+   git clone https://github.com/tayalsaksham008/RailTranslate: Multilingual Announcements & Information System.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd Railway
+   cd RailTranslate: Multilingual Announcements & Information System
    ```
 3. **Install Dependencies:**
    ```bash
