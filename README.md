@@ -78,4 +78,8 @@ We welcome contributions from the community! To contribute, follow these steps:
    Go to the original repository and submit a pull request, explaining your changes and why they should be merged.
    
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 Thank you for contributing to the Multilingual Information Dissemination System for Railway Stations! Together, we can make railway travel more accessible and efficient for everyone.
