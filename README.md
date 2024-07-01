@@ -27,11 +27,11 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/tayalsaksham008/RailTranslate: Multilingual Announcements & Information System.git
+   git clone https://github.com/tayalsaksham008/RailTranslate.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd RailTranslate: Multilingual Announcements & Information System
+   cd RailTranslate
    ```
 3. **Install Dependencies:**
    ```bash
